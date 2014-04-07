@@ -1,0 +1,13 @@
+#Set your permissions here!
+
+Allominecy:
+    exampleplayer:
+        metal: false
+        misting: false
+
+Magicookie:
+    exampleplayer:
+        cookie: false
+LlamaPerm:
+    explayer:
+        lperm: false

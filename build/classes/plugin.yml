@@ -1,0 +1,9 @@
+name: LlamaPerm
+version: 0.1
+main: com.raphaellevy.llamaperm.LlamaPerm
+description: Permissions and other resources for my plugins
+commands:
+    lperm:
+        aliases: []
+        description: set llama perms
+        usage: /lperm <player> <plugin> <perm> [true/false]
